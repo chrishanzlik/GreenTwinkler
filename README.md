@@ -1,23 +1,29 @@
 # Green Twinkler
 
-This is a electronics test project with Microchips ATtiny814 for home decoration. The context is a fading light platform with an integrated timer.
+This is a electronics test project with Microchips ATtiny814 for home decoration. The context is a fading light platform
+with an integrated timer.
 
 ## Configuration
 
 ON / OFF time interval can be adjusted by code
 
 ```c
-#define OPERATION_TIME	21600L /* seconds (6 hours)  */
-#define SLEEP_TIME		64800L /* seconds (18 hours) */
+#define OPERATION_TIME   21600L /* seconds (6 hours)  */
+#define SLEEP_TIME       64800L /* seconds (18 hours) */
 ```
 
 Also the blinking / fading interval is adjustable
 
 ```c
-#define PERIOD			(100)
-#define DUTY_MAX		(PERIOD)
-#define DUTY_MIN		(5)
+#define PERIOD          (100)
+#define DUTY_MAX        (PERIOD)
+#define DUTY_MIN        (5)
 ```
+
+## Circuit diagram
+   
+![circuit](assets/circuit-diagram.jpg)  
+_(Made with [Fritzing](https://fritzing.org/))_
 
 ## Parts list
 
