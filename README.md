@@ -1,5 +1,7 @@
 # Green Twinkler
 
+![glowing](assets/glowing.gif)
+
 This is a electronics test project with Microchips ATtiny814 for home decoration. The context is a fading light platform
 with an integrated timer.
 
@@ -21,7 +23,7 @@ Also the blinking / fading interval is adjustable
 ```
 
 ## Circuit diagram
-   
+
 ![circuit](assets/circuit-diagram.jpg)  
 _(Made with [Fritzing](https://fritzing.org/))_
 
