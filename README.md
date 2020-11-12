@@ -43,3 +43,5 @@ _(Made with [Fritzing](https://fritzing.org/))_
 - 1x Batteryholder 2xAA
 
 Total estimated costs: Lesser than **2,00 €** without batteries (10.03.2020)
+
+![bare](assets/bare.gif)
