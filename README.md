@@ -33,7 +33,9 @@ _(Made with [Fritzing](https://fritzing.org/))_
 - 1x SOIC-14 to DIP-14 Adapter
 - 1x ISP Socket (6-Pin)
 - 3x LED Green (Ultrabright)
-- 3x Resistor 68 R
+- 3x Resistor 130 R
+- 3x Resistor 4.7k R
+- 3x BC337-40 Transistor
 - 1x Switch On/Off
 - 1x Watch-Quarz 32,768 kHz
 - 2x Ceramic Capacitor 12pF
