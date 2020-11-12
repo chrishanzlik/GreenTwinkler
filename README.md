@@ -2,7 +2,7 @@
 
 ![glowing](assets/glowing.gif)
 
-This is a electronics test project with Microchips ATtiny814 for home decoration. The context is a fading light platform
+This is a electronics test project with Microchips ATtiny814 for home decoration. The context is a fading light platform (LEDs)
 with an integrated timer.
 
 ## Configuration
@@ -42,7 +42,7 @@ _(Made with [Fritzing](https://fritzing.org/))_
 - 1x Ceramic Capacitor 100nF
 - 1x Batteryholder 2xAA
 
-Total estimated costs: Lesser than **2,00 €** without batteries (10.03.2020)
+Total estimated costs: Less than **2,00 €** without batteries (10.03.2020)
 
 ## Battery lifetime
 Strongly depends on the quality of the inserted batteries and your soldering work. I would say **between one and two months** with the 8/16 setting.
