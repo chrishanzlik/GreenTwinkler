@@ -44,4 +44,8 @@ _(Made with [Fritzing](https://fritzing.org/))_
 
 Total estimated costs: Lesser than **2,00 €** without batteries (10.03.2020)
 
-![bare](assets/bare.gif)
+## Battery lifetime
+Strongly depends on the quality of the inserted batteries and your soldering work. I would say **between one and two months** with the 8/16 setting.
+
+![bare](assets/bare.gif)   
+*(The circuit board was embedded in epoxy resin)*
